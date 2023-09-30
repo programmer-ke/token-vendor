@@ -1,3 +1,4 @@
 * todo
  - [X] checkpoint 1
  - [ ] checkpoint 2
+   - goals: vendor balance ui
